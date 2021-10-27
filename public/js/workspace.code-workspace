@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Async-javascript"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\web-server"
+		},
+		{
+			"path": "..\\..\\..\\weather-app"
+		},
+		{
+			"path": "..\\..\\..\\tut"
+		}
+	],
+	"settings": {}
+}
